@@ -10,11 +10,14 @@ title: Stats and Quotes Notes
   - [Quotes](#quotes)
   - [Examples](#examples)
   - [Stats](#stats)
+    - [COVID-19 Vaccination](#covid-19-vaccination)
+    - [Sexism](#sexism)
 - [Technology](#technology)
   - [Definitions](#definitions-1)
     - [Cancel Culture](#cancel-culture)
     - [Big Tech](#big-tech)
     - [AI](#ai)
+    - [Surveillence](#surveillence)
   - [Quotes](#quotes-1)
     - [Cancel Culture](#cancel-culture-1)
     - [Morals and Ethics](#morals-and-ethics)
@@ -24,7 +27,11 @@ title: Stats and Quotes Notes
     - [AI](#ai-1)
       - [Autonomous Vehicles](#autonomous-vehicles)
   - [Stats](#stats-1)
+    - [Autonomous Vehicles](#autonomous-vehicles-1)
     - [Big Tech and Big Data](#big-tech-and-big-data)
+    - [Cancel Culture](#cancel-culture-3)
+    - [Surveillance](#surveillance)
+    - [Security](#security)
     - [Morals and Ethics](#morals-and-ethics-1)
     - [Youth](#youth)
     - [Tech Talent Crunch](#tech-talent-crunch)
@@ -33,6 +40,7 @@ title: Stats and Quotes Notes
   - [Quotes](#quotes-2)
   - [Examples](#examples-2)
   - [Stats](#stats-2)
+    - [Women in Tech](#women-in-tech)
 - [Crime and Punishment](#crime-and-punishment)
   - [Definitions](#definitions-3)
   - [Quotes](#quotes-3)
@@ -60,7 +68,7 @@ title: Stats and Quotes Notes
 <br>&emsp;  Notes: `Research paper on theLancet, found on Fortune. Both are not so well known sources`
 
 - Covax has pledged to send 200 million vaccine shots to some 92 countries.  However only 30 million has been received.
-
+<br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
 
 - Serum's CEO, Adar Poonawalla, pledged 400 million doses for low and middle-income countries by the end of 2020. As of Jan 2021, only 70 million shots were manufactured.
 <br>&emsp;  Article: `The Straits Times` - `Problems at biggest vaccine maker in Indialeave world short on Covid-19 shots`
@@ -77,6 +85,7 @@ title: Stats and Quotes Notes
 
 ## Definitions
 
+
 ### Cancel Culture
 - "Cancel": To effectively end their career or revoke their cultural cachet, whether through boycotts of their work or disciplinary action from an employer.
 - "Cancel Culture": The culture of cancelling people who have done something bad in the eyes of the public, which often involves unfair attempts of online vigilantism, often effectively destroying one's life in the process.
@@ -92,8 +101,11 @@ title: Stats and Quotes Notes
 
 ### AI
 
-- _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
-- _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
+- ** _Theory of Affordance_: a term coined by psychologist James J. Gibson. It states that when intelligent beings look at the world they perceive not simply objects and their relationships but also their *possibilities*. Eg, when we sit on a chair, the chair "affords" the possibility of sitting, whereas the same cannot be said about water, which instead "affords" the possibility of drinking or swimming in.
+- ** _The Coded Gaze_: Defined by MIT grad student Joy Buolamwini as the bias in machine learning systems that involve lower accuracy for individuals of different skin tones and genders.
+### Surveillence
+
+- "Stalkerware": Defined by its ability to hide and stealthily record information from the device. As the name implies, it is used for stalking.
 
 ## Quotes
 ### Cancel Culture
@@ -106,6 +118,9 @@ title: Stats and Quotes Notes
 - "Technology is not neutral"
 <br>&emsp;  Source: `Sam Gregory, program director of the human rights nonprofit Witness`
 <br>&emsp;  Notes: `On software created with intent of malicious usage`
+
+- "Science in itself is morally neutral; it becomes good or evil according as it is applied"
+<br>&emsp;  Source: `Aldous Huxley`
 
 ## Examples
 
@@ -181,11 +196,25 @@ title: Stats and Quotes Notes
 <br>&emsp;  Article: `CNA` - `Bill restricting police use of TraceTogether data introduced in Parliament, with tougher penalties for misuse`
 <br>&emsp;  Source: `Smart Nation and Digital Government Group (SNDGG) Singapore`
 
+### Cancel Culture
+- More than 90% of the doxed files included the victim's address,  61% included a phone number, and 53% included an email address. 
+<br>&emsp;  Source: [`2017 NYU` - `First large-scale doxing study reveals motivations and targets for cyber bullying`](https://www.sciencedaily.com/releases/2017/11/171107122918.htm)
+<br>&emsp;  Notes: `Over 5500 files of doxxing, implies over 5500 cases of doxxing as sample size`
+
+- 12% of the students acknowledged their engagement in doxing.
+<br>&emsp;  Source: [`Int J Environ Res Public Health` - `Doxing: What Adolescents Look for and Their Intentions`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6352099/)
+<br>&emsp;  Notes: `Survey of 2120 Hong Kong students`
+
 ### Surveillance
 
 - Ten of 24 US Governmental agencies surveyed plan to broaden their use of facial recognition systems by 2023, while eighteen of 24 currently use some form of the technology, according to an August 2021 report by the US Government Accountability Office (GAO).
 - [Facial recognition has proved to be less accurate on people with darker skin](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212), women, and younger and older people,  according to a 2018 paper presented by MIT and Stanford University researchers. This was due to the fact that dataset used to assess its performance was more than 77 percent male and more than 83 percent white. Leading to a disparity of nearly 46% for some individuals.
 
+### Security
+
+- 76.1% of websites use https by default, a more secure protocol to access websites, while the 85.5% top 1 million websites use https by default
+<br>&emsp;  Source: [`W3Techs`](https://w3techs.com/technologies/breakdown/ce-httpsdefault/ranking)
+<br>&emsp;  Notes: `Referenced by New York Times`
 ### Morals and Ethics
 
 - Estimated 90% - 95% of all online deepfake videos are nonconsensual porn, 90% of the porn feature women

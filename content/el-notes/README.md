@@ -4,6 +4,7 @@ If you want, please compile all statistics and data you find in this repository.
 ## Directory Structure
 ```
 ├── Science and Technology
+│   ├── Some Questions Related to Science and Technology.m
 │   ├── _index.m
 │   ├── Tech
 │   │   ├── Tech Talent Crunch
@@ -20,14 +21,22 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │   ├── As tech titans converge in Singapore, can it truly become Asia’s Silicon Valley - TODAY
 │   │   │   └── What is stopping more Singaporeans from taking up tech jobs - The Straits Times
 │   │   ├── AI
+│   │   │   ├── AI-ethics pioneer Margaret Mitchell on her five-year plan at open-source AI startup Hugging Face - The Morning Brew
 │   │   │   ├── Amazon's Echo May Be Able to Read Your Emotions - The Atlantic
 │   │   │   ├── How big tech manipulates academia to avoid regulation.m
+│   │   │   ├── Autonomous Vehicles
+│   │   │   │   ├── A Study on Driverless-Car Ethics Offers a Troubling Look Into Our Values - The New Yorker
+│   │   │   │   ├── We spent two days riding Waymo's driverless taxis and it felt surprisingly normal - The Morning Brew
+│   │   │   │   ├── Self-driving car dilemmas reveal that moral choices are not universal - Nature
+│   │   │   │   ├── _index.m
+│   │   │   │   └── Dangerously trending - Driverless Tesla videos on social media - The Straits Times
 │   │   │   ├── Pentagon's pledge on rules-based AI usage a notable development - The Financial Times
 │   │   │   ├── AI sans ethics can endanger everyone - The Straits Times
 │   │   │   ├── The Metamorphosis - The Atlantic
 │   │   │   ├── When the Robot Doesn’t See Dark Skin - The New York Times
 │   │   │   ├── _index.m
 │   │   │   ├── Courts and Artifical Intelligence.m
+│   │   │   ├── AI Hiring Is Hard, but That Doesn’t Mean There’s a Skills Gap - The Morning Brew
 │   │   │   ├── 1 in 2 companies in Singapore has sped up AI roll-out in the wake of Covid-19 - The Straits Times
 │   │   │   ├── Confidence to face an AI-dominated future requires preparing Singaporeans for jobs not yet created - CNA
 │   │   │   ├── Study finds gender and skin-type bias in commercial artificial-intelligence systems - MIT News
@@ -39,18 +48,20 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │   ├── Moving AI ethics beyond guidelines - The Straits Times
 │   │   │   ├── Can A.I. Grade Your Next Test - The New York Times
 │   │   │   ├── Singapore, the AI capital of the world - The Straits Times
+│   │   │   ├── Behind the scenes - How Twitter decided to open up its image-cropping algorithm to the public - The Morning Brew
 │   │   │   ├── Controversy over AI chatbot in South Korea raises questions about ethics - The Straits Times
+│   │   │   ├── Report - AI jobs are growing fast - much faster than education and workforce policy - The Morning Brew
 │   │   │   ├── Who Is Making Sure the A.I. Machines Aren’t Racist - The New York Times
+│   │   │   ├── Facebook whistleblower Frances Haugen points to 2018 algorithm overhaul as key problem - The Morning Brew
 │   │   │   └── How the Enlightenment Ends - The Atlantic
 │   │   ├── Prejudice
 │   │   │   ├── _index.m
 │   │   │   └── An Afghan Refugee Built a Robot as a Message of Hope - The New York Times
-│   │   ├── Autonomous Vehicles
-│   │   │   ├── A Study on Driverless-Car Ethics Offers a Troubling Look Into Our Values - The New Yorker
-│   │   │   ├── Self-driving car dilemmas reveal that moral choices are not universal - Nature
-│   │   │   ├── _index.m
-│   │   │   └── Dangerously trending - Driverless Tesla videos on social media - The Straits Times
 │   │   ├── _index.m
+│   │   ├── Surveillance and Security
+│   │   │   ├── How to Find 'Stalkerware' on Your Devices - The New York Times
+│   │   │   ├── _index.m
+│   │   │   └── It’s Time to Stop Paying for a VPN - The New York Times
 │   │   ├── Theranos
 │   │   │   ├── Theranos’s Fraud Tested the Limits of the Disruption Tale - The New York Times
 │   │   │   ├── Elizabeth Holmes - Has the Theranos scandal changed Silicon Valley - BBC News
@@ -72,8 +83,11 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   ├── Big Tech
 │   │   │   ├── What Congress Wants From Big Tech - The New York Times
 │   │   │   ├── Evidence of anti-conservative bias by platforms remains anecdotal. - The New York Times
+│   │   │   ├── How Facebook got addicted to spreading misinformation - MIT Technology Review
 │   │   │   ├── A Global Tipping Point for Reining In Tech Has Arrived - The New York Times
+│   │   │   ├── LinkedIn to End Service in China, Citing ‘Challenging’ Environment - The New York Times
 │   │   │   ├── China offers a masterclass in how to humble big tech, right - The Economist
+│   │   │   ├── How Facebook got addicted to spreading misinformation - MIT Technology Review.m
 │   │   │   ├── _index.m
 │   │   │   ├── Millions Flock to Telegram and Signal as Fears Grow Over Big Tech - The New York Times
 │   │   │   ├── Facebook Ban On Donald Trump Will Hold, Social Network's Oversight Board Rules - NPR
@@ -90,7 +104,13 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │   ├── Govt made mistake by not being upfront about TraceTogether data use; people accept explanation - PM Lee - The Straits Times
 │   │   │   ├── Twitter and Facebook Barred Trump. China Is on His Side. - The New York Times
 │   │   │   ├── Lawmakers, Taking Aim at Big Tech, Push Sweeping Overhaul of Antitrust - The New York Times
-│   │   │   └── The silencing of Trump has highlighted the authoritarian power of tech giants - The Guardian
+│   │   │   ├── The silencing of Trump has highlighted the authoritarian power of tech giants - The Guardian
+│   │   │   └── Censorshi
+│   │   │       ├── Social media’s struggle with self-censorship - The Economist
+│   │   │       ├── Social media’s struggle with self-censorship - The Economist.m
+│   │   │       ├── Big tech and censorship - The Economist.m
+│   │   │       ├── _index.m
+│   │   │       └── Big tech and censorship - The Economist
 │   │   ├── Study highlights pitfalls associated with 'cybervetting' job candidates - ScienceDaily
 │   │   ├── Youth
 │   │   │   ├── Less passive screen time, more structure better for kids' mental health during pandemic - ScienceDaily
@@ -185,10 +205,17 @@ If you want, please compile all statistics and data you find in this repository.
 ├── Censorship and Freedom of Speech
 │   ├── _index.m
 │   └── Singapore need not fear loosening censorship - The Guardian
+├── Archive
+│   ├── _index.m
+│   └── Data and Stats (as of 220921 0014)
 ├── Stats and Quotes Notes.m
 ├── Crime and Punishment
 │   ├── How effective are prisons in addressing the problem of crime.m
-│   └── _index.m
+│   ├── _index.m
+│   ├── Stanford Prison Experiment
+│   │   ├── _index.m
+│   │   └── The Real Lesson of the Stanford Prison Experiment - The New Yorker
+│   └── Crime and Punishment.m
 ├── Prejudice and Discrimination
 │   ├── How far is the trend towards diversity a positive development.m
 │   ├── Diversity brought about by globalization should be celebrated, not feared. Discuss.m
@@ -207,6 +234,7 @@ If you want, please compile all statistics and data you find in this repository.
 │   ├── Women, early-career academics more likely to feel like 'impostors' in disciplines that prize brilliance, study finds
 │   ├── Gender
 │   │   ├── ‘We need to show girls that engineering is exciting’ - how role models can light a spark - The Guardian
+│   │   ├── Women are still the emotional custodians for the workplace, report finds - The Morning Brew
 │   │   ├── _index.m
 │   │   ├── Women in STEM
 │   │   │   ├── More women pursuing degrees in Stem fields - The Straits Times
@@ -218,6 +246,8 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │   ├── Women In Science - Shifting Role Models And Sponsoring Young Talent - Forbes
 │   │   │   ├── Help women to upskill, get into better skilled jobs to ensure job protection, says President Halimah - The Straits Times
 │   │   │   └── Could the Pandemic Prompt an ‘Epidemic of Loss’ of Women in the Sciences - The New York Times
+│   │   ├── Wives do not earn as much as their husbands, says new global study - BBC News
+│   │   ├── Women in the Workplace - McKinsey
 │   │   ├── The age of patriarchy - how an unfashionable idea became a rallying cry for feminism today - The Guardian
 │   │   └── The Elizabeth Holmes Trial Is a Wake-Up Call for Sexism in Tech - The New York Times
 │   ├── Race
@@ -226,7 +256,8 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   ├── _index.m
 │   │   ├── In Singapore, Vitriol Against Newcomers From Mainland China - The New York Times (Very Old)
 │   │   ├── Deterrence should continue to be the norm in sentencing - The Straits Times
-│   │   └── The Excesses of Antiracist Education - The New York Times
+│   │   ├── The Excesses of Antiracist Education - The New York Times
+│   │   └── Racism in Society.m
 │   └── Foreign Workers
 │       ├── An unpopular opinion but the truth is foreign workers help, not hurt, Singaporean livelihoods - TODAY
 │       ├── _index.m
