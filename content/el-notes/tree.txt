@@ -224,6 +224,7 @@
 │   │       ├── Meritocracy still key principle for recognising individuals in Singapore - The Straits Times
 │   │       ├── _index.m
 │   │       ├── “The Meritocracy Trap,” explained - Vox
+│   │       ├── How Life Became an Endless, Terrible Competition.m
 │   │       └── Meritocracy and how to manage its downsides - The Straits Times
 │   ├── How far is it possible to have a fair and inclusive society in your country.m
 │   ├── Women, early-career academics more likely to feel like 'impostors' in disciplines that prize brilliance, study finds
