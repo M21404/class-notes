@@ -17,7 +17,7 @@ enableMissingTranslationPlaceholders = false
 
     # Source Code repository section
     description = ""
-    github_repository = "https://github.com/spongiforma/hugo-theme-techdoc"
+    github_repository = "https://github.com/m21404/class-notes"
     version = "0.9.7"
 
     # Documentation repository section
