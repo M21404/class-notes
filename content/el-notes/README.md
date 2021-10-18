@@ -83,6 +83,7 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   ├── Big Tech
 │   │   │   ├── What Congress Wants From Big Tech - The New York Times
 │   │   │   ├── Evidence of anti-conservative bias by platforms remains anecdotal. - The New York Times
+│   │   │   ├── Over $119bn wiped off Facebook's market cap after growth shock - Facebook - The Guardian
 │   │   │   ├── How Facebook got addicted to spreading misinformation - MIT Technology Review
 │   │   │   ├── A Global Tipping Point for Reining In Tech Has Arrived - The New York Times
 │   │   │   ├── LinkedIn to End Service in China, Citing ‘Challenging’ Environment - The New York Times
