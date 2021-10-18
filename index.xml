@@ -84,6 +84,16 @@ Directory Structure ├── Science and Technology │ ├── Some Question
     </item>
     
     <item>
+      <title>Big Tech - a compilation of important notes</title>
+      <link>/el-notes/science-and-technology/tech/big-tech/big-tech-a-compilation-of-important-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/el-notes/science-and-technology/tech/big-tech/big-tech-a-compilation-of-important-notes/</guid>
+      <description>Big Tech a compilation of important notes
+Definitions  Big Tech / FAGMA: Word/Acronym used to describe the five largest tech companies in the world, namely Facebook, Amazon, Google, Microsoft and Apple  Sometimes includes Tesla and Nvidia (FAANG) Apple was the first of these to achieve a two trillion dollar valuation in August 2020 The combined net worth of these five, in addition to five other top tech companies, rounds up to a whopping nine trillion dollars.</description>
+    </item>
+    
+    <item>
       <title>Big tech and censorship - The Economist</title>
       <link>/el-notes/science-and-technology/tech/big-tech/censorship/big-tech-and-censorship-the-economist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +143,15 @@ The world today is more diverse than it has ever been. The advent of globalisati
       <guid>/el-notes/science-and-technology/tech/cancel-culture/entertainment-not-truth-is-the-priority-of-the-media-today-comment/</guid>
       <description>&amp;ldquo;Entertainment, not truth, is the priority of the media today,&amp;rdquo; Comment. Source: https://www.theknowledgeloft.com/gp-essays/gp-essay-11-entertainment-not-truth-is-the-priority-of-the-media-today-comment/
 Will Rogers once said, “All I know is just what I read in the papers, and that’s an alibi for my ignorance.” It is now fashionable to degrade the media for obscuring verifiable facts that is in the public interest to be made aware in favour of providing amusement and enjoyment to its audience. However, it is important to recognise that media is not a homogenous collective and the priorities of the media cannot be reduced to a simple dichotomy.</description>
+    </item>
+    
+    <item>
+      <title>Ethics in Science</title>
+      <link>/el-notes/science-and-technology/science/ethics/ethics-in-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/el-notes/science-and-technology/science/ethics/ethics-in-science/</guid>
+      <description>Ethics in Science  Different peer-review processes in research:    Process Single Blind Double Blind     How Authors are unaware of who the Reviewers are, but the Reviewers know who the Authors are Authors and Reviewers are both unaware of who the other is   Why is DB Better? The name of the authors is a considerable factor in the peer review process. Anonymity ensures that quality of paper is assessed rather than the name of the authors   Examples Peter Higgs, whose seminal paper postulating the existence of the Higgs Boson, was rejected by the Physics Letters Journal, one infamous for employing single blind protocol in peer review processes, although later it was proven to be true and Higgs even won a Nobel Prize for his work back in 2013.</description>
     </item>
     
     <item>
@@ -347,6 +366,17 @@ Mankind has always had a knack for finding the easy way around the most difficul
       <guid>/el-notes/science-and-technology/tech/ai/to-what-extent-is-artificial-intelligence-replacing-the-role-of-humans/</guid>
       <description>To what extent is artificial intelligence replacing the role of humans? To a limited extent.
 Definitions    Word Definition     Role of Humans Tasks that require some form of intelligence and decision making / creative thinking rather than menial labour.    Points  AI today requires human intervention to be maintained  All advanced critical thinking of AI requires collaborating with an AI GitHub Copilot: requires humans to suggest what they wish to code, Copilot is simply a tool (Literally called copilot)   AI requires advanced computations that may not be easily executable in normal settings?</description>
+    </item>
+    
+    <item>
+      <title>“I started crying” Inside Timnit Gebru’s last days at Google— and what happens next - MIT Technology Review</title>
+      <link>/el-notes/science-and-technology/tech/i-started-crying-inside-timnit-gebrus-last-days-at-google-and-what-happens-next-mit-technology-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/el-notes/science-and-technology/tech/i-started-crying-inside-timnit-gebrus-last-days-at-google-and-what-happens-next-mit-technology-review/</guid>
+      <description>“I started crying”: Inside Timnit Gebru’s last days at Google— and what happens next MIT Technology Review, by Karen Hao, December 16, 2020
+Find original article here: https://www.technologyreview.com/2020/12/16/1014634/google-ai-ethics-lead-timnit-gebru-tells-story/
+By now, we’ve all heard some version of the story. On December 2, after a protracted disagreement over the release of a research paper, Google forced out its ethical AI co-lead, Timnit Gebru. The paper was on the risks of large language models, AI models trained on staggering amounts of text data, which are a line of research core to Google’s business.</description>
     </item>
     
   </channel>
