@@ -57,11 +57,13 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   ├── Prejudice
 │   │   │   ├── _index.m
 │   │   │   └── An Afghan Refugee Built a Robot as a Message of Hope - The New York Times
+│   │   ├── “I started crying” Inside Timnit Gebru’s last days at Google— and what happens next - MIT Technology Review
 │   │   ├── _index.m
 │   │   ├── Surveillance and Security
 │   │   │   ├── How to Find 'Stalkerware' on Your Devices - The New York Times
 │   │   │   ├── _index.m
 │   │   │   └── It’s Time to Stop Paying for a VPN - The New York Times
+│   │   ├── “I started crying” Inside Timnit Gebru’s last days at Google— and what happens next - MIT Technology Review.m
 │   │   ├── Theranos
 │   │   │   ├── Theranos’s Fraud Tested the Limits of the Disruption Tale - The New York Times
 │   │   │   ├── Elizabeth Holmes - Has the Theranos scandal changed Silicon Valley - BBC News
@@ -93,6 +95,8 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │   ├── Millions Flock to Telegram and Signal as Fears Grow Over Big Tech - The New York Times
 │   │   │   ├── Facebook Ban On Donald Trump Will Hold, Social Network's Oversight Board Rules - NPR
 │   │   │   ├── Facebook emphasises safety commitment in the wake of Trump social media ban - The Straits Times
+│   │   │   ├── Big Tech
+│   │   │   ├── Big Tech - a compilation of important notes.m
 │   │   │   ├── In Silicon Valley, Criminal Prosecutors See No Evil - The New York Times
 │   │   │   ├── Is there still privacy in today's world especially given the need for national security.m
 │   │   │   ├── Twitter's Ban on Trump Shows Where Power Now Lies - The New York Times
@@ -189,9 +193,11 @@ If you want, please compile all statistics and data you find in this repository.
 │       ├── _index.m
 │       ├── As science advances, the human race regresses. Is this a fair comment.m
 │       ├── Ethics
+│       │   ├── Experts consider the ethical implications of new technology – Harvard Gazette
 │       │   ├── Scientific Ethics - Visionlearning
 │       │   ├── _index.m
 │       │   ├── Ethics in Science is more beneficial that the Science itself. Do you agree.m
+│       │   ├── Ethics in Science.m
 │       │   └── Gene Editing
 │       │       ├── Mixed messages - is research into human-monkey embryos ethical - The Guardian
 │       │       ├── Genome editing for heritable diseases not yet safe, report states - The Guardian
