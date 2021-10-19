@@ -81,12 +81,14 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   ├── High score, low pay - why the gig economy loves gamification - The Guardian
 │   │   ├── Social Media
 │   │   │   ├── _index.m
-│   │   │   └── Social Media divides more than it unites. To what extent is this true.m
+│   │   │   ├── Social Media divides more than it unites. To what extent is this true.m
+│   │   │   └── To what extent does social media pose a challenge for the government.m
 │   │   ├── Big Tech
 │   │   │   ├── What Congress Wants From Big Tech - The New York Times
 │   │   │   ├── Evidence of anti-conservative bias by platforms remains anecdotal. - The New York Times
 │   │   │   ├── Over $119bn wiped off Facebook's market cap after growth shock - Facebook - The Guardian
 │   │   │   ├── How Facebook got addicted to spreading misinformation - MIT Technology Review
+│   │   │   ├── ‘We have placed far too much power in the hands of technology companies today.’ Do you agree.m
 │   │   │   ├── A Global Tipping Point for Reining In Tech Has Arrived - The New York Times
 │   │   │   ├── LinkedIn to End Service in China, Citing ‘Challenging’ Environment - The New York Times
 │   │   │   ├── China offers a masterclass in how to humble big tech, right - The Economist
@@ -117,12 +119,11 @@ If you want, please compile all statistics and data you find in this repository.
 │   │   │       ├── _index.m
 │   │   │       └── Big tech and censorship - The Economist
 │   │   ├── Study highlights pitfalls associated with 'cybervetting' job candidates - ScienceDaily
-│   │   ├── Youth
-│   │   │   ├── Less passive screen time, more structure better for kids' mental health during pandemic - ScienceDaily
-│   │   │   ├── _index.m
-│   │   │   ├── Gen Y Speaks Why this online game I have been playing two-thirds of my life means so much to me - TODAY
-│   │   │   └── Young teens should only use recreational internet and video games one hour daily - ScienceDaily
-│   │   └── To what extent does social media pose a challenge for the government.m
+│   │   └── Youth
+│   │       ├── Less passive screen time, more structure better for kids' mental health during pandemic - ScienceDaily
+│   │       ├── _index.m
+│   │       ├── Gen Y Speaks Why this online game I have been playing two-thirds of my life means so much to me - TODAY
+│   │       └── Young teens should only use recreational internet and video games one hour daily - ScienceDaily
 │   └── Science
 │       ├── Covid-19
 │       │   ├── Implications
@@ -214,7 +215,8 @@ If you want, please compile all statistics and data you find in this repository.
 │   └── Singapore need not fear loosening censorship - The Guardian
 ├── Archive
 │   ├── _index.m
-│   └── Data and Stats (as of 220921 0014)
+│   ├── Data and Stats (as of 220921 0014)
+│   └── Stats and Quotes Notes (as of 191021)
 ├── Stats and Quotes Notes.m
 ├── Crime and Punishment
 │   ├── How effective are prisons in addressing the problem of crime.m
