@@ -1,7 +1,6 @@
 # Class Notes
 
-Static generation of class notes
-
+Static generation of class notes. Pulls notes from [M21404/el-notes](https://github.com/M21404/el-notes)
 ## Local Development Server
 Requires hugo
 
