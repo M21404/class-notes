@@ -17,12 +17,12 @@ enableMissingTranslationPlaceholders = false
 
     # Source Code repository section
     description = ""
-    github_repository = "https://github.com/m21404/class-notes"
+    github_repository = "https://github.com/m22504/class-notes"
     version = "0.9.7"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/spongiforma/hugo-theme-techdoc"
+    github_doc_repository = "https://github.com/m22504/class-notes"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
